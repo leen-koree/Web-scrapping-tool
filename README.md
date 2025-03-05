@@ -116,7 +116,7 @@ Feel free to **submit issues** or **pull requests** for improvements! We welcome
 This project was developed by **interns** and utilizes **open-source libraries** and existing tools. We acknowledge and appreciate the efforts of the open-source community in making these resources available.
 
 ### Contributors:
-*[Leen Koree](https://github.com/Leen-QM)* AND *[AlDanah AlAnazi](https://github.com/AlDanah-QM)*
+*[Leen Koree](https://github.com/Leen-koree)* AND *[AlDanah AlAnazi](https://github.com/AlDanah-QM)*
 
 ---
 
